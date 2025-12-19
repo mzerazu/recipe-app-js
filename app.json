@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "recipe-app-js",
+    "slug": "recipe-app-js",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/biryani.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/biryani.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/biryani.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/biryani.jpg"
+    }
+  }
+}
